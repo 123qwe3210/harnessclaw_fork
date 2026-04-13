@@ -8,6 +8,7 @@ release/
 
 # Electron / local runtime data
 challenge-and-connect.json
+.claude/settings.local.json
 
 # Vite
 *.local
